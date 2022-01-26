@@ -144,4 +144,4 @@ dygraph(q_xts, main = "Discharge in the Poudre River, Fort Collins, CO") %>%
 
 ## Link to presentation-style webpage
   
-  [Go to presentation](https://georgewoolsey.github.io/1_rmarkdown_examples/)
+  [Go to presentation](https://georgewoolsey.github.io/1_rmarkdown_examples_revealjs/)
