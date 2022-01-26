@@ -153,7 +153,7 @@ dygraph(q_xts, main = "Discharge in the Poudre River, Fort Collins, CO") %>%
 
 ### Map of Poudre River Trail System
 
-![](https://4.bp.blogspot.com/-tvTbnFePI8o/U-9jLAE6BzI/AAAAAAAAL78/__Jg9KjgA4I/s1600/Poudre%2Bmap.jpg)
+![](https://poudreheritage.org/wp-content/uploads/poudremapgeneral-1.jpg)
 
 
 ## Link back to original report-style webpage
